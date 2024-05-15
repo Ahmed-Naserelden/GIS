@@ -8,7 +8,7 @@ arcpy.env.overwriteOutput = True
 # Input data
 elevation_points = r"C:\Users\biruni\Desktop\GIS\Data\Datasets\ne_10m_geography_regions_elevation_points.shp"
 land_regions = r"C:\Users\biruni\Desktop\GIS\Data\Datasets\ne_10m_land.shp"
-out_path = r"C:\Users\biruni\Desktop\GIS\Output\task2";
+out_path = r"C:\Users\biruni\Desktop\GIS\Output\task2"
 
 # Output shapefiles
 elevation_points_shapefile = r"C:\Users\biruni\Desktop\GIS\Output\task2\ElevationPoints.shp"  # Elevation points shapefile
